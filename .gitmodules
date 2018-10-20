@@ -1,0 +1,3 @@
+[submodule "curses-menu"]
+	path = curses-menu
+	url = git@github.com:prehensile/curses-menu.git
