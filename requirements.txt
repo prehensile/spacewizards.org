@@ -1,2 +1,0 @@
--e git+https://github.com/pmbarrett314/curses-menu.git@c76fc00ab9d518eab275e55434fc2941f49c6b30#egg=curses_menu&subdirectory=../../curses-menu
-pkg-resources==0.0.0
