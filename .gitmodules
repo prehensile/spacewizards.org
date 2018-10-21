@@ -1,3 +1,6 @@
 [submodule "curses-menu"]
 	path = curses-app/app/curses-menu
 	url = git@github.com:prehensile/curses-menu.git
+[submodule "WebSSH2"]
+	path = WebSSH2
+	url = git@github.com:prehensile/WebSSH2.git
